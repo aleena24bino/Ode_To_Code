@@ -38,20 +38,20 @@ This is a Streamlit-based Sales Assistant application designed to streamline and
 ## Usage
 1)Automate Data Entry:
 
-Upload files to automatically add customer data to the database.
-Eliminate manual data entry.
+* Upload files to automatically add customer data to the database.
+* Eliminate manual data entry.
 
 2)Task Automation:
 
-Schedule meetings, follow-ups, and reminders automatically.
-Generate and send personalized emails and messages.
+* Schedule meetings, follow-ups, and reminders automatically.
+* Generate and send personalized emails and messages.
 
 3)CRM Integration:
 
-Integrate seamlessly with popular CRM systems.
-Centralize customer information and interaction history.
+* Integrate seamlessly with popular CRM systems.
+* Centralize customer information and interaction history.
 
 4)Chatbot Integration:
 
-Use an AI chatbot for initial customer inquiries and lead qualification.
-Provide 24/7 customer support for better engagement and response times.
+* Use an AI chatbot for initial customer inquiries and lead qualification.
+* Provide 24/7 customer support for better engagement and response times.
