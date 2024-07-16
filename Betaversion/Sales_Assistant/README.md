@@ -8,7 +8,6 @@ This is a Streamlit-based Sales Assistant application designed to streamline and
 2. [Requirements](#requirements)
 3. [Installation and Setup](#installation-and-setup)
 4. [Usage](#usage)
-5. [File Structure](#file-structure)
 
 ## Team members
 1. [Meenakshi M Kumar](https://github.com/Meenakshimkumar)
